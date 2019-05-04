@@ -1,0 +1,40 @@
+.module-80 {
+  margin: 0;
+  padding: 0;
+  background-image: url(../images/1.png);
+}
+.module-80 .title {
+  text-align: center;
+}
+.module-80 .title .title-top h1 {
+  font-weight: bold;
+  color: #FFD800FF;
+}
+.module-80 .title .title-content {
+  width: 60%;
+  margin: auto;
+  color: #404040FF;
+}
+.module-80 section {
+  margin-top: 30px;
+}
+.module-80 section .content {
+  background: #C0C0C0FF;
+  opacity: 0.9;
+  padding-top: 10px;
+  text-align: center;
+}
+.module-80 section .content i {
+  font-size: 2.5em;
+}
+.module-80 section .content h5 {
+  margin-bottom: 30px;
+  font-weight: bold;
+}
+.module-80 section .content hr {
+  border-top: 3px solid #FFD800FF;
+  width: 30px;
+}
+.module-80 section .content p {
+  color: #404040FF;
+}

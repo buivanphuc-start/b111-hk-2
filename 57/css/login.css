@@ -1,0 +1,43 @@
+.login {
+  margin-top: 50px;
+}
+.login .formLogin {
+  width: 30%;
+  margin: auto;
+}
+.login .formLogin .h1::before {
+  content: "";
+  border-top: 1px solid #C0C0C0;
+  margin-right: 20px;
+  padding: 0 50px;
+  position: relative;
+  top: 15px;
+}
+.login .formLogin h1,
+.login .formLogin p {
+  color: #73879C;
+}
+.login .formLogin .h1 {
+  text-align: center;
+  font: 400 25px Helvetica, Arial, sans-serif;
+  letter-spacing: -0.05em;
+}
+.login .formLogin .h1::after {
+  content: "";
+  border-top: 1px solid #C0C0C0;
+  margin-left: 20px;
+  padding: 0 50px;
+  position: relative;
+  top: 15px;
+}
+.login .formLogin .separator {
+  padding-top: 10px;
+  text-align: center;
+  border-top: 1px solid #C0C0C0;
+}
+.login .formLogin .separator .titleBottom h1 {
+  font: 400 25px Helvetica, Arial, sans-serif;
+  letter-spacing: -0.05em;
+  line-height: 20px;
+  margin: 10px 0 30px;
+}
