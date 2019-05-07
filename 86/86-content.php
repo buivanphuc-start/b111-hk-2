@@ -10,89 +10,90 @@
                             <div class="gdlr-item-title-head">
                                 <h3 class="gdlr-item-title gdlr-skin-title gdlr-skin-border">RECENT NEWS</h3>
                                 
-                            </div><a class="gdlr-item-title-link" href="#">Read The Blog</a></div>
+                            </div><a class="gdlr-item-title-link" href="#">Read The Blog</a>
+                        </div>
                             
                         <div class="blog-item-wrapper">
                             <div class="blog-item-holder">
-                                
-                                <div class="twelve columns">
-                                    <div class="gdlr-item gdlr-blog-widget">
-                                        <div class="gdlr-ux gdlr-blog-widget-ux">
-                                                <div class="gdlr-standard-style">
-                                                    <div class="gdlr-blog-thumbnail">
-                                                        <a href="#"> <img src="images/1.jpg" alt="1" /> </a>
+                                <div class="scrollbar">
+                                    <div class="twelve columns">
+                                        <div class="gdlr-item gdlr-blog-widget">
+                                            <div class="gdlr-ux gdlr-blog-widget-ux">
+                                                    <div class="gdlr-standard-style">
+                                                        <div class="gdlr-blog-thumbnail">
+                                                            <a href="#"> <img src="images/1.jpg" alt="1" /> </a>
 
-                                                    </div>
-                                                    <header class="post-header">
-                                                        <h3 class="gdlr-blog-title"><a href="#">SEM PORTA MOLLIS PARTURIENT</a>
-                                                        </h3>
-
-                                                        <div class="gdlr-blog-info gdlr-info">
-                                                            <div class="blog-info blog-date"><span class="gdlr-head">Posted on</span><a href="#">17 May 2014</a></div>
-                                                            
                                                         </div>
+                                                        <header class="post-header">
+                                                            <h3 class="gdlr-blog-title"><a href="#">SEM PORTA MOLLIS PARTURIENT</a>
+                                                            </h3>
+
+                                                            <div class="gdlr-blog-info gdlr-info">
+                                                                <div class="blog-info blog-date"><span class="gdlr-head">Posted on</span><a href="#">17 May 2014</a></div>
+                                                                
+                                                            </div>
+                                                            
+                                                        </header>
+                                                        <!-- entry-header -->
                                                         
-                                                    </header>
-                                                    <!-- entry-header -->
-                                                    
-                                                </div>
-                                            <!-- #post -->
+                                                    </div>
+                                                <!-- #post -->
+                                            </div>
+                                        </div>
+                                    </div>
+                                    
+                                    <div class="twelve columns">
+                                        <div class="gdlr-item gdlr-blog-widget">
+                                            <div class="gdlr-ux gdlr-blog-widget-ux">
+                                                    <div class="gdlr-standard-style">
+                                                        <div class="gdlr-blog-thumbnail">
+                                                            <a href="#">
+                                                                <img src="images/3.jpg" alt="" />
+                                                            </a>
+                                                        </div>
+                                                        <header class="post-header">
+                                                            <h3 class="gdlr-blog-title"><a href="#">NULLAM LOREM MATTIS PURUS</a></h3>
+
+                                                            <div class="gdlr-blog-info gdlr-info">
+                                                                <div class="blog-info blog-date"><span class="gdlr-head">Posted on</span><a href="#">26 Apr 2014</a></div>
+                                                                
+                                                            </div>
+                                                            
+                                                        </header>
+                                                        <!-- entry-header -->
+                                                        
+                                                    </div>
+                                                <!-- #post -->
+                                            </div>
+                                        </div>
+                                    </div>
+                                    
+                                    <div class="twelve columns">
+                                        <div class="gdlr-item gdlr-blog-widget">
+                                            <div class="gdlr-ux gdlr-blog-widget-ux">
+                                                    <div class="gdlr-standard-style">
+                                                        <div class="gdlr-blog-thumbnail">
+                                                            <a href="#">
+                                                                <img src="images/4.jpg" alt="4.jpg" />
+                                                            </a>
+                                                        </div>
+                                                        <header class="post-header">
+                                                            <h3 class="gdlr-blog-title"><a href="#">NIBH SEM SIT ULLAMCORPER</a></h3>
+
+                                                            <div class="gdlr-blog-info gdlr-info">
+                                                                <div class="blog-info blog-date"><span class="gdlr-head">Posted on</span><a href="#">21 Mar 2014</a></div>
+                                                                
+                                                            </div>
+                                                            
+                                                        </header>
+                                                        <!-- entry-header -->
+                                                        
+                                                    </div>
+                                                <!-- #post -->
+                                            </div>
                                         </div>
                                     </div>
                                 </div>
-                                
-                                <div class="twelve columns">
-                                    <div class="gdlr-item gdlr-blog-widget">
-                                        <div class="gdlr-ux gdlr-blog-widget-ux">
-                                                <div class="gdlr-standard-style">
-                                                    <div class="gdlr-blog-thumbnail">
-                                                        <a href="#">
-                                                            <img src="images/3.jpg" alt="" />
-                                                        </a>
-                                                    </div>
-                                                    <header class="post-header">
-                                                        <h3 class="gdlr-blog-title"><a href="#">NULLAM LOREM MATTIS PURUS</a></h3>
-
-                                                        <div class="gdlr-blog-info gdlr-info">
-                                                            <div class="blog-info blog-date"><span class="gdlr-head">Posted on</span><a href="#">26 Apr 2014</a></div>
-                                                            
-                                                        </div>
-                                                        
-                                                    </header>
-                                                    <!-- entry-header -->
-                                                    
-                                                </div>
-                                            <!-- #post -->
-                                        </div>
-                                    </div>
-                                </div>
-                                
-                                <div class="twelve columns">
-                                    <div class="gdlr-item gdlr-blog-widget">
-                                        <div class="gdlr-ux gdlr-blog-widget-ux">
-                                                <div class="gdlr-standard-style">
-                                                    <div class="gdlr-blog-thumbnail">
-                                                        <a href="#">
-                                                            <img src="images/4.jpg" alt="4.jpg" />
-                                                        </a>
-                                                    </div>
-                                                    <header class="post-header">
-                                                        <h3 class="gdlr-blog-title"><a href="#">NIBH SEM SIT ULLAMCORPER</a></h3>
-
-                                                        <div class="gdlr-blog-info gdlr-info">
-                                                            <div class="blog-info blog-date"><span class="gdlr-head">Posted on</span><a href="#">21 Mar 2014</a></div>
-                                                            
-                                                        </div>
-                                                        
-                                                    </header>
-                                                    <!-- entry-header -->
-                                                    
-                                                </div>
-                                            <!-- #post -->
-                                        </div>
-                                    </div>
-                                </div>
-                                
                             </div>
                         </div>
                     </div>
